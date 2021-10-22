@@ -1,15 +1,14 @@
 <?php
-$title="League of skins";
+$title="commandes";
 @include("head.php");
 ?>
-<body>
-    <div id="home">
+    <div id="order">
         <?php
         @include("header.php");
         ?>
         <section>
             <div class="main-title-container">
-                <h2>Liste des Skins</h2>
+                <h2>Liste de mes Skins</h2>
             </div>
                 
             <div class="top-skins-list-container">  
@@ -31,7 +30,7 @@ $title="League of skins";
                 </div>
             
                 <div class="champion-skins-container">
-                    <a href="./product.php">
+                    <a href="./ordered-product.php">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="./images/Aatrox/Aatrox_justicier.jpg" alt="Aatrox justicier">
@@ -40,7 +39,7 @@ $title="League of skins";
                         </div>
                     </a>
                     
-                    <a href="./product.php">
+                    <a href="./ordered-product.php">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="./images/Aatrox/Aatrox_mecha.jpg" alt="Mecha Aatrox">
@@ -48,7 +47,7 @@ $title="League of skins";
                             <h4>Mecha Aatrox</h4>
                         </div>
                     </a>
-                    <a href="./product.php">
+                    <a href="./ordered-product.php">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="./images/Aatrox/Aatrox_pecheur.jpg" alt="Aatrox chasseur pecheur">
@@ -56,7 +55,7 @@ $title="League of skins";
                             <h4>Aatrox chasseur marin</h4>
                         </div>
                     </a>
-                    <a href="./product.php">
+                    <a href="./ordered-product.php">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="./images/Aatrox/Aatrox_lune_de_sang.jpg" alt="Aatrox lune de sang" class="skin-img">
@@ -64,7 +63,7 @@ $title="League of skins";
                             <h4>Aatrox lune de sang</h4>
                         </div>
                     </a>
-                    <a href="./product.php">
+                    <a href="./ordered-product.php">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="./images/Aatrox/Aatrox_lune_de_sang_prestige.jpg" alt=" Aatrox lune de sang Edition Prestige">
@@ -72,7 +71,7 @@ $title="League of skins";
                             <h4>Aatrox lune de sang Edition Prestige</h4>
                         </div>
                     </a>
-                    <a href="./product.php">
+                    <a href="./ordered-product.php">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="./images/Aatrox/aatrox_heros_de_guerre.jpg" alt="Aatrox héros de guerre">
@@ -88,7 +87,7 @@ $title="League of skins";
                     <h3>AHRI</h3>  
                 </div>
                 <div class="champion-skins-container">
-                    <a href="./product.phps">
+                    <a href="./ordered-product.php">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="" alt="">
