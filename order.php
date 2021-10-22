@@ -1,15 +1,21 @@
-<?php
-$title="League of skins";
-@include("head.php");
-?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="//db.onlinewebfonts.com/c/12420e8c141ca7c3dff41de2d59df13e?family=BeaufortforLOL-Bold" rel="stylesheet" type="text/css"/>
+    <title>League of skins</title>
+</head>
 <body>
-    <div id="home">
+    <div id="order">
         <?php
         @include("header.php");
         ?>
         <section>
             <div class="main-title-container">
-                <h2>Liste des Skins</h2>
+                <h2>Liste de mes Skins</h2>
             </div>
                 
             <div class="top-skins-list-container">  
@@ -31,7 +37,7 @@ $title="League of skins";
                 </div>
             
                 <div class="champion-skins-container">
-                    <a href="./product.php">
+                    <a href="">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="./images/Aatrox/Aatrox_justicier.jpg" alt="Aatrox justicier">
@@ -40,7 +46,7 @@ $title="League of skins";
                         </div>
                     </a>
                     
-                    <a href="./product.php">
+                    <a href="">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="./images/Aatrox/Aatrox_mecha.jpg" alt="Mecha Aatrox">
@@ -48,7 +54,7 @@ $title="League of skins";
                             <h4>Mecha Aatrox</h4>
                         </div>
                     </a>
-                    <a href="./product.php">
+                    <a href="">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="./images/Aatrox/Aatrox_pecheur.jpg" alt="Aatrox chasseur pecheur">
@@ -56,7 +62,7 @@ $title="League of skins";
                             <h4>Aatrox chasseur marin</h4>
                         </div>
                     </a>
-                    <a href="./product.php">
+                    <a href="">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="./images/Aatrox/Aatrox_lune_de_sang.jpg" alt="Aatrox lune de sang" class="skin-img">
@@ -64,7 +70,7 @@ $title="League of skins";
                             <h4>Aatrox lune de sang</h4>
                         </div>
                     </a>
-                    <a href="./product.php">
+                    <a href="">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="./images/Aatrox/Aatrox_lune_de_sang_prestige.jpg" alt=" Aatrox lune de sang Edition Prestige">
@@ -72,7 +78,7 @@ $title="League of skins";
                             <h4>Aatrox lune de sang Edition Prestige</h4>
                         </div>
                     </a>
-                    <a href="./product.php">
+                    <a href="">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="./images/Aatrox/aatrox_heros_de_guerre.jpg" alt="Aatrox héros de guerre">
@@ -88,7 +94,7 @@ $title="League of skins";
                     <h3>AHRI</h3>  
                 </div>
                 <div class="champion-skins-container">
-                    <a href="./product.phps">
+                    <a href="">
                         <div class="champion-skin-card">
                             <div class="champion-img-container">
                                 <img src="" alt="">
